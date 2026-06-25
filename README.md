@@ -14,7 +14,7 @@
 ## 🎯 Overview
 
 This repository contains the reference solutions for the paired
-[**Agentic Systems Architect Learning Repository**](https://github.com/ai-infra-curriculum/ai-infra-agentic-systems-architect-learning) —
+[**Agentic Systems Architect Learning Repository**](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning) —
 the top rung of the agentic track, pitched at the **L48 architect** level.
 
 At this altitude the deliverable is a **design**, not a service. So the solutions are
@@ -88,7 +88,7 @@ and an [extensible agent platform](./projects/project-303-extensible-agent-platf
 
 These are reference answers — get the most from them by trying the exercise first.
 
-1. **Start in the [learning repository](https://github.com/ai-infra-curriculum/ai-infra-agentic-systems-architect-learning).**
+1. **Start in the [learning repository](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning).**
    Read the module brief and attempt the exercise's design artifact yourself.
 2. **Produce your own artifact first** — your own decision matrix, threat model, or
    reference diagram. The value is in defending the trade-offs, not matching the text.
@@ -107,7 +107,7 @@ completion map.
 
 ## 🔗 Paired Learning Repository
 
-- **[ai-infra-agentic-systems-architect-learning](https://github.com/ai-infra-curriculum/ai-infra-agentic-systems-architect-learning)**
+- **[ai-infra-agentic-systems-architect-learning](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning)**
   — module briefs, exercise specs, and project stubs. Start there; return here to
   check your work.
 
@@ -115,7 +115,7 @@ completion map.
 
 - **Email:** ai-infra-curriculum@joshua-ferguson.com
 - **GitHub Organization:** [ai-infra-curriculum](https://github.com/ai-infra-curriculum)
-- **Issues:** [Report bugs or request features](https://github.com/ai-infra-curriculum/ai-infra-agentic-systems-architect-solutions/issues)
+- **Issues:** [Report bugs or request features](https://github.com/ai-engineering-curriculum/agentic-systems-architect-solutions/issues)
 
 ## 📄 License
 
